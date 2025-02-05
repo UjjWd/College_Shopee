@@ -1,0 +1,53 @@
+
+.card-box{
+    height: 300px;
+    object-fit: contain;
+   
+}
+.det-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.pd-img{
+    object-fit: contain;
+    height: 280px;
+    width: 280px;
+}
+.det-price{
+    text-align: center;
+    color: rgb(215, 38, 38);
+}
+.det-p{
+    text-align: center;
+    font-size: larger;
+}
+.button{
+    text-align: center;
+    border: none;
+   border-radius: 5px;
+    background-color:rgb(71, 216, 14);
+    margin: 5px;
+    padding: 1px 10px;
+    height: 40px;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    
+}
+.det{
+    text-align: center;
+    font-size: 22px;
+    color: rgb(29, 28, 28);
+}
+.QR-box{
+    width: 50vh;
+    height: 50vh;
+    background-color: lavender;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+}
+

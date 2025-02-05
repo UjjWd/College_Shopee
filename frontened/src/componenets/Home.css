@@ -1,0 +1,66 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.card{
+   background-color:lavender;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.icons{
+    font-size: 32px;
+    height: 32px;
+    width: 32px;
+    color:antiquewhite;
+    cursor: pointer;
+}
+.home-h{
+    text-align: center;
+}
+.red-icons{
+    font-size: 32px;
+    height: 32px;
+    width: 32px;
+    color:red;
+    cursor: pointer;
+}
+.icon-con{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    padding: 7px;
+    background-color: white;
+    margin: 7px;
+}
+.icons:hover{
+    color: red;
+}
+
+.links{
+    text-decoration: none;
+    font-size: 24px;
+    color: rgb(0, 179, 255);
+}
+.clear-btn{
+    height: 25px;
+    background-color: rgb(8, 110, 244);
+    color: white;
+    outline: none;
+    text-align: center;
+    border-radius: 5px;
+    padding: 1px 15px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+    
+}
+.price-text{
+    color: rgb(237, 96, 8);
+}
+.Footer{
+    height: 15vh;
+    background-color: rgb(44, 38, 38);
+    
+}
+.ftfix{
+    min-height: calc(100vh - 200px);
+}
