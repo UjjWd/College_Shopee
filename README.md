@@ -1,0 +1,1 @@
+Developed a web-based marketplace for students to buy and sell second-hand items within the college community. Built with React.js, Node.js, and MongoDB, it allows users to list products, browse categories, and connect with buyers/sellers.
