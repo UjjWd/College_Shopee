@@ -48,7 +48,7 @@ function Header(props) {
           setshowOver(!showOver);
         }}
        className="circle"
-      > S</div>}
+      > </div>}
 
       {showOver && (
         <div
